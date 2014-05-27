@@ -1,0 +1,11 @@
+{
+  "generator-backbone": {
+    "appPath": "app",
+    "appName": "Automato",
+    "coffee": false,
+    "testFramework": "mocha",
+    "templateFramework": "[handlebars]",
+    "compassBootstrap": true,
+    "includeRequireJS": true
+  }
+}
